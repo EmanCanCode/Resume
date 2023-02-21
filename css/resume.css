@@ -182,7 +182,7 @@ a {
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: #800000 ;
 }
 
 .index-img {
@@ -191,10 +191,10 @@ a:hover, a:focus, a:active {
 
 
 .social-icons a {
-  background: #824027; 
+  background: #800000 ; 
 }
 .social-icons a:hover {
-  color: #824027  !important; 
+  color: #800000   !important; 
   background: unset;
-  border: 2px solid #824027;
+  border: 2px solid #800000 ;
 }
