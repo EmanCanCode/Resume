@@ -184,3 +184,17 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+.index-img {
+  height: 40%;
+}
+
+
+.social-icons a {
+  background: #824027; 
+}
+.social-icons a:hover {
+  color: #824027  !important; 
+  background: unset;
+  border: 2px solid #824027;
+}
