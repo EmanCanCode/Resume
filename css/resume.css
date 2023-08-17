@@ -9,6 +9,14 @@ body {
     padding-top: 0;
     padding-left: 17rem;
   }
+
+  .index-img {
+    /* height: 40%;
+   */
+  
+   height: auto;
+   width: 50%;
+  }
 }
 
 h1,
