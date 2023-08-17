@@ -186,7 +186,11 @@ a:hover, a:focus, a:active {
 }
 
 .index-img {
-  height: 40%;
+  /* height: 40%;
+ */
+
+ height: auto;
+ width: 100%;
 }
 
 
