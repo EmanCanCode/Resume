@@ -10,13 +10,7 @@ body {
     padding-left: 17rem;
   }
 
-  .index-img {
-    /* height: 40%;
-   */
   
-   height: auto;
-   width: 50%;
-  }
 }
 
 h1,
@@ -167,6 +161,14 @@ section.resume-section .resume-item .resume-date {
   }
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
+  }
+
+  .index-img {
+    /* height: 40%;
+   */
+  
+   height: auto;
+   width: 50% !important;
   }
 }
 
